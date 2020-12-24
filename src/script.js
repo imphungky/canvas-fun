@@ -42,8 +42,8 @@ class Stage {
         else {
             msg = "Merry Christmas Mom";
         }
-        console.log(msg);
-        context.font = "100px Brush Script Std";
+        var size = Math.floor(this.canvas.width / 19);
+        context.font = size+"px Brush Script Std";
         context.fillStyle = "red";
         context.textAlign = "center";
         context.lineWidth = 10;
