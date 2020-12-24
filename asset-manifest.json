@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/canvas-fun/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/canvas-fun/static/js/main.be081a1b.chunk.js",
-    "main.js.map": "/canvas-fun/static/js/main.be081a1b.chunk.js.map",
+    "main.js": "/canvas-fun/static/js/main.ca289a77.chunk.js",
+    "main.js.map": "/canvas-fun/static/js/main.ca289a77.chunk.js.map",
     "runtime-main.js": "/canvas-fun/static/js/runtime-main.4e4c4859.js",
     "runtime-main.js.map": "/canvas-fun/static/js/runtime-main.4e4c4859.js.map",
     "static/js/2.89566bec.chunk.js": "/canvas-fun/static/js/2.89566bec.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4e4c4859.js",
     "static/js/2.89566bec.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.be081a1b.chunk.js"
+    "static/js/main.ca289a77.chunk.js"
   ]
 }
