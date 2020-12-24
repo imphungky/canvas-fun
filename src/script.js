@@ -43,7 +43,7 @@ class Stage {
             msg = "Merry Christmas Mom";
         }
         var size = Math.floor(this.canvas.width / 19);
-        context.font = size+"px Brush Script Std";
+        context.font = size+"px fantasy";
         context.fillStyle = "red";
         context.textAlign = "center";
         context.lineWidth = 10;
